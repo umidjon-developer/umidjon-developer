@@ -1,4 +1,4 @@
-   <h1 align="center">Hi 👋, I'm Umidjon</h1>
+  <h1 align="center">Hi 👋, I'm Umidjon</h1>
 
 <h3 align="center">A passionate Full Stack developer from Uzbekistan</h3>
 <img  align="right" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
@@ -45,14 +45,12 @@
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
     </p>
     <br>
     <h3 align="left">Database:</h3>
     <p style="display: flex; align-items: center; gap: 20px;"> 
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
     </p>
     <br>
     
@@ -63,4 +61,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umidjon&show_icons=true&locale=en" alt="umidjon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon&" alt="umidjon" /></p>
-
