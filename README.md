@@ -35,7 +35,7 @@
   <a href="https://instagram.com/umidjon_developer" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/umidjon-gafforov-8b151b325/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin" />
   </a>
 </p>
