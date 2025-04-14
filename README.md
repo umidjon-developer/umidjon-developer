@@ -28,7 +28,18 @@
 ### 🌐 Connect with Me
 
 <p>
-[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
+<p align="left">
+  <a href="https://twitter.com/umidjon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="twitter" />
+  </a>
+  <a href="https://instagram.com/umidjon_developer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="instagram" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin" />
+  </a>
+</p>
+
 
 </p>
 
