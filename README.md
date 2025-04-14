@@ -28,12 +28,7 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://twitter.com/umidjon" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/umidjon_developer" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin)](https://skillicons.dev)
 </p>
 
 ---
