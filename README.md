@@ -1,6 +1,6 @@
 # 🚀 My Developer Portfolio
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nestjs,netlify,nodejs,express,notion,npm,nuxtjs,py,django,react,redux,supabase,tailwind,mongodb,mysql,git,github,firebase,electron,docker,bootstrap,express,fastapi,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,nestjs,netlify,nodejs,express,notion,npm,nuxtjs,py,django,react,redux,supabase,tailwind,mongodb,mysql,git,github,firebase,electron,docker,bootstrap,express,fastapi,figma,fastapi)](https://skillicons.dev)
 
 ## 👋 Hi My name is Umidjon. I am Full stack developer and Mobile developer !
 
